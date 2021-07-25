@@ -1,0 +1,2 @@
+- Hello world I'm ShockingRotom
+- You can find me on Discord at ShockingRotom#0001
