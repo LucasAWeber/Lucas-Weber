@@ -1,3 +1,5 @@
 - Hello world I'm ShockingRotom
 - UofG comp sci student
+- OS: Windows, macOS, Linux
+- Languages: Python, C
 - You can find me on Discord at ShockingRotom#0001
