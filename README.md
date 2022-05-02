@@ -3,6 +3,7 @@
 ###### OS: Windows, macOS, Linux
 ###### Languages: Python, C
 You can find me through: 
+- Website at https://lucasaweber.github.io/
 - LinkedIn at https://www.linkedin.com/in/lucas-a-weber/
 - Email at lweber5@icloud.com
 - Discord at ShockingRotom#0001
