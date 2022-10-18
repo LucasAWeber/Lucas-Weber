@@ -1,7 +1,7 @@
-# Hello world I'm Lucas Weber
-## UofG Computer Science student
+# Hello world I am Lucas Weber
+## UofG computer science student
 ###### OS: Windows, macOS, Linux
-###### Languages: Python, C
+###### Languages: Python, C, Java
 You can find me through: 
 - Website at https://lucasaweber.github.io/
 - LinkedIn at https://www.linkedin.com/in/lucas-a-weber/
